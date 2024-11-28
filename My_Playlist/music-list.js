@@ -58,6 +58,6 @@ let allMusic = [
     name: "The Simple Things",
     artist: "Michael Carreon",
     img: "https://lh3.googleusercontent.com/pw/AP1GczMHOGpsdbsylZa3qlG1gdJjwJCP1hDFNriCsDCyIvcEhDBsFRKE853xGrl9v1dJ9eRY-IkKqvzP5AFTn6aYhfxcPiwlsCnL4Fit9fCCRpRtEhwjLRo5Q2gvQXbVugUiIAaCfrW0Vr2fo1txK8wIo7JB=w1079-h913-s-no-gm?authuser=0",
-    src: "Say_You_Won't_Let_Go_James Arthur.mp3",
+    src: "The_Simple_Things.mp3",
   },
 ];

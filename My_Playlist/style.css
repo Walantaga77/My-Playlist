@@ -14,16 +14,16 @@
 }
 
 :root {
-  --pink: #3920a4;
-  --violet: #410e6a;
+  --pink: #6449df;
+  --violet: #392648;
   --lightblack: #515c6f;
   --white: #ffffff;
   --darkwhite: #cecaca;
-  --pinkshadow: #21909b;
+  --pinkshadow: #a0f7ff;
   --lightbshadow: rgba(0, 0, 0, 0.15);
   --thumb-size: 20px;
   --track-height: 6px;
-  --primary-color: #749bff;
+  --primary-color: #081a48;
   --secondary-color: #0e336a;
   --thumb-color: #ffffff;
   --thumb-border: #000000;
